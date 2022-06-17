@@ -19,7 +19,7 @@ A multi-cryptocurrency HD wallet implementated by golang.
 ## install
 
 ```sh
-go get -v -u github.com/foxnut/go-hdwallet
+go get -v -u github.com/codkui/go-hdwallet
 ```
 
 ## example
@@ -30,7 +30,7 @@ package main
 import (
     "fmt"
 
-    "github.com/foxnut/go-hdwallet"
+    "github.com/codkui/go-hdwallet"
 )
 
 var (

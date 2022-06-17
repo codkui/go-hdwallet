@@ -1,4 +1,4 @@
-module github.com/foxnut/go-hdwallet
+module github.com/codkui/go-hdwallet
 
 go 1.13
 
